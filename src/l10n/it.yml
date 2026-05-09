@@ -1,0 +1,62 @@
+airport_charlist: abcdefghijklmnopqrstuvwxyz0123456789 _*%!?#/\\|@
+attribution: by <a href="https://twitter.com/mxwllt"><svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-maxwellito"></use></svg></a> / on <a href="https://github.com/maxwellito/breaklock"><svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-github"></use></svg></a>
+button_abort: ABORT
+button_easy: Facile
+button_hard: Difficile
+button_instructions: ISTRUZIONI
+button_medium: Media
+button_start: INIZIA_
+connect_first: Connetti
+connect_second: i punti
+description: Un ibrido tra Mastermind e il blocco a sequenza di Android. Un gioco che amerai odiare.
+description_black: un punto è presente nella combinazione, ma non si trova nella posizione corretta
+description_difficulty: L\'impostazione della difficoltà cambia il numero di punti da connettere. Facile ha 4 punti, media ha 5 punti e difficile ha 6 punti.
+description_game: Link the dots to find the lock pattern. After every attempt the game will tell you how many dots you got right.
+description_white: un punto è presente nella combinazione e si trova nella posizione corretta
+feedback_success_first: Combinazione trovata in
+feedback_success_second: tentativi.
+feedback_fail: Mi dispiace, non ce l\'hai fatta questa volta.
+label_success: Successo!
+label_fail: Fallimento!
+label_goodluck: Buona fortuna!_
+lang_code: it
+mode_challenge: Sfida
+mode_challenge_description: La modalità sfida da solo 10 tentativi per vincere
+mode_countdown: Countdown
+mode_countdown_description: Trova la combinazione in 10 minuti, con tentativi illimitati
+mode_practice: Allenamento
+mode_practice_description: Niente pressione, fai pratica nel gioco
+name_app: BreakLock
+quote_success00: Quella era pura fortuna, nient\'altro. Smetti di sognare.
+quote_success01: Sei stato fortunato, senza stare sveglio tutta la notte.
+quote_success02: Nessun merito. Assolutamente nessuno.
+quote_success03: Quello ti è stato dato su un piatto di argento.
+quote_success04: Assolutamente nessuna sinapsi è stata usatadurante questa partita.
+quote_success05: Non permetterti nemmeno di postare il tuo punteggio.
+quote_success06: Saperlipopette!! That was close.
+quote_success07: Seems legit, with a bit of luck.
+quote_success08: Pretty good!
+quote_success09: But you made it!
+quote_success10: Trying random patterns is not a strategy...
+quote_success11: That was looooooooong.
+quote_success12: At least you made it.
+quote_success13: Dovresti odiare questo gioco ora.
+quote_success14: Spero che tu non abbia barato.
+quote_success15: La tua dedizione è incredibile.
+quote_success16: Logic not found.
+quote_success17: No comment.
+quote_fail00: Credo che ci sia un po\' di lavoro da fare.
+quote_fail01: Do you understand the game? Don\'t take it personnaly, I struggle to explain it.
+quote_fail02: Un giorno ce la farai...
+quote_fail03: Non è divertente per te, ma lo è per me ;)
+quote_fail04: Non preoccuparti, ce la farai.
+quote_fail05: If you want to avoid battles, stay out of the grassy areas!
+quote_fail06: Even if you loose in battle, if you surpass what you\'ve done before, you have bested yourself.
+quote_fail07: TILT! Inserisci una moneta e prova di nuovo.
+special_css: <style></style>
+summary_see: Scegli un\'opzione.
+summary_action_solution: RISOLVIMENTO
+summary_action_new_game: NUOVA_PARTITA
+summary_action_back_home: TORNA_INDIETRO
+tweet_feedback: Inviami il tuo feedback a
+share: Condividi
