@@ -17,6 +17,7 @@ class LangSelector {
       { value: 'ru', label: 'Русский' },
       { value: 'fr', label: 'Français' },
       { value: 'pt_br', label: 'Português Brasileiro' },
+      { value: 'it', label: 'Italian' },
     ])
   }
 
