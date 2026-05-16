@@ -10,14 +10,14 @@ connect_first: Connetti
 connect_second: punti
 description: Un ibrido tra Mastermind e il codice sequenza di Android. Un gioco che amerai odiare.
 description_black: un punto è presente nella combinazione, ma non si trova nella posizione corretta
-description_difficulty: L\'impostazione della difficoltà cambia il numero di punti da connettere. Facile ha 4 punti, media ha 5 punti e difficile ha 6 punti.
+description_difficulty: L'impostazione della difficoltà cambia il numero di punti da connettere. Facile ha 4 punti, media ha 5 punti e difficile ha 6 punti.
 description_game: Unisci i punti per trovare la combinazione. Dopo ogni tentativo, il gioco ti dirà quanti punti hai collegato correttamente.
 description_white: un punto è presente nella combinazione e si trova nella posizione corretta
 feedback_success_first: Combinazione trovata in
 feedback_success_second: tentativi.
 feedback_fail: Mi dispiace, non ce l\'hai fatta questa volta.
-label_success: Successo!
-label_fail: Fallimento!
+label_success: Congratulazioni!
+label_fail: Che peccato!
 label_goodluck: Buona fortuna!_
 lang_code: it
 mode_challenge: Sfida
@@ -46,7 +46,7 @@ quote_success15: La tua dedizione è incredibile.
 quote_success16: Logica non trovata.
 # Avrei voluto aggiungere `404:` alla frase qui sopra, ma non riesco a farlo senza sminchiare il codice. Se lo farai tu, o viaggiatore, buona fortuna!
 quote_success17: No comment.
-quote_fail00: Credo che ci sia un po\' di lavoro da fare.
+quote_fail00: Credo che tu debba allenarti un po'.
 quote_fail01: Riesci a capire il gioco? Non prenderla sul personale, faccio fatica a spiegarlo.
 quote_fail02: Un giorno ce la farai...
 quote_fail03: Non è divertente per te, ma lo è per me ;)
@@ -56,7 +56,7 @@ quote_fail06: Anche se perdi in battaglia, se superi ciò che hai fatto prima, s
 quote_fail07: TILT! Inserisci un\'altra moneta e prova di nuovo.
 special_css: <style></style>
 summary_see: Scegli un\'opzione.
-summary_action_solution: VEDI_RISOLUZIONE
+summary_action_solution: MOSTRA_RISOLUZIONE
 summary_action_new_game: NUOVA_PARTITA
 summary_action_back_home: TORNA_INDIETRO
 tweet_feedback: Inviami il tuo feedback a
